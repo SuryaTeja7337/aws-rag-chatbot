@@ -1,0 +1,2 @@
+﻿opensearch-py
+requests-aws4auth
