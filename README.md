@@ -127,10 +127,3 @@ aws-rag-chatbot/
 **Surya Teja**
 - GitHub: [@SuryaTeja7337](https://github.com/SuryaTeja7337)
 
-## 📝 License
-
-MIT License - feel free to use for learning or portfolio projects!
-
----
-
-⭐ **Star this repo if you found it helpful!**
